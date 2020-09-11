@@ -17,12 +17,18 @@ import java.util.List;
 @RestController
 public class ClientController {
 
+    /*
     // Внедрение зависимости ClientService - через конструктор
     private  final ClientService clientService;
     @Autowired
     public ClientController(ClientService clientService) {
         this.clientService = clientService;
     }
+     */
+
+    // Внедрение зависимости через
+    @Autowired
+    ClientService clientService;
 
     /**
      * Создание клиента - отвечает на POST-запрос с адресом "/clients"
