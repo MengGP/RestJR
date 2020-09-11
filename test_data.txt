@@ -1,0 +1,21 @@
+{
+	"name" : "Peter",
+	"email" : "amigo@jr.com",
+	"phone" : "+7 (191) 746-43-23"
+}
+
+
+{
+	"name" : "Donald",
+	"email" : "komrad@jr.com",
+	"phone" : "+7 (191) 746-44-11"
+}
+
+
+{
+	"name" : "Smith",
+	"email" : "agent@jr.com",
+	"phone" : "+7 (191) 746-77-77"
+}
+
+
